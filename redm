@@ -1,0 +1,14 @@
+Silent Remedy App
+
+*Silent Remedy App* is an application designed to automatically manage the phone's sound profile. The app disables the "silent" mode when receiving a call from a favorite contact and automatically re-enables it after the call ends.
+
+## Features
+- Automatically disable silent mode when receiving a call from a favorite contact.
+- Automatically re-enable silent mode after the call ends.
+- Customizable favorite contact list.
+- Utilizes Flutter libraries to manage call state and audio settings.
+
+## Requirements
+- *Flutter 2.0+*
+- *Android SDK* (supports Android 5.0 and above)
+- *Phone Permissions*: The app requires READ_PHONE_STATE and MODIFY_AUDIO_SETTINGS permissions
